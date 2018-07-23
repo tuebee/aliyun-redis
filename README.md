@@ -1,2 +1,2 @@
-# aliyun-redis,php-ask
+# php-ask
 aliyun redis
